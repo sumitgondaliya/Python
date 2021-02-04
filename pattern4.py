@@ -5,7 +5,7 @@ pattern:
         * * *
         * *
         * 
-Make Sure: No. of rows should be an odd number.
+Make Sure: No. of rows should be an odd number to see proper pattern.
 """
 n = int(input("Enter No. of Rows:"))
 m = (n//2)+1        
